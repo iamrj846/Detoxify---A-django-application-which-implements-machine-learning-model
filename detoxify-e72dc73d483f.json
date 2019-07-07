@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "detoxify",
+  "private_key_id": "e72dc73d483f89c483c9a2494d5a2dd94709202e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsjYgCNbwyF/Y7\nja9uR4hN/mxCQl1cY3GlovLOi0ifa6aSWISzytARRZyYzEX39suyZmrh1PHKk8ZZ\nyqk8Aj/pNgMdlfLET4XN7FoRuFdjo60PF7wd2HWQHrIxZJCG9b9uYXKhOWCAuo4N\nF0joMKg00hyM4M1KIQJ8X82wL6kKlMTI26XVGkO2Ernly3rQHea3BvuqpsFvw52C\ny7enrMaJPV3BTpt9/0v9fgXBkgcVNhpCl7teRnEAsj8Wpe+S+sbbPs+eoABkIffe\nuAY/ZVP7MLNEtTQF4lIYXBIbc0N79huMwoexHd7qDf8bzgZIflWAN9u2YgriQaQB\nKLA6yeVfAgMBAAECggEAFf/PZNS8Azj53DrisHEvSB5VaBc09vf4v9DoGvw4DJc5\ne/QMKy4C3Ajff72feA8/hiW3n8Y584VmpwEHFY8F3fJUcFuzQWMQIKJvE05I2fu+\nrytsAPQdfPvk5RY4tPQ07VpANpztmEvwm2uqEGxPrbhSCoYItlhCDGBchYd2ClKa\nsYesy8/6jdOXJ5/MAh0uOFJ1jrIVCAKArK19BIc0ZuCf3GoYDe1AKsv6elEAvDkD\nsLqqSRgtVlDpqqAfWSPk+4GG8+1rC1L52kfoa7+lLW7Krn9fm8C8Qg0L4pxsB5xJ\n0k1KBo7yxU8NPIFPotoel197JOEFyp2DbGiMyJeKWQKBgQDUtmR0x0mIxg7txfjR\nFuOfAPsbGIjLYU69IUcTnRnyDUY7AzxdjfMjlPWKjaAJen1Hf8N92QUrUxofLFCL\nqZxpUR5qk51fmfVbF4nWLZiivVVmhxd6cjjnI3JG/KV3iIKkcMWnBAlxDMdVCwnm\n3+9S/R5Mp/W6u6Qjauz8qu2A1wKBgQDPqvUbGhPg64GtHI+2u3lLFM5IPyi1VG8Q\nmbRDKW9eO4BMBtLh6hBKicV9SujQFX+EQfu3suw8s4PfhwKPVWhpOy+naEsLBXWK\nvUqhItkOp/GCWWVYyTEpTg/dHZl+ESFHkig4mRLbRD3+A2QU/IEOQx/awMev7C2j\n0tJYVNtGuQKBgCUyD7br8kvcdlfVuoC1g/AV99LxI1qNFXu1CfzAB/1vnMxM8I1b\neRzLu3QS990wch/Ck6i5/lFpIrQ4x4zkh9lSugLg9S/2eBUJtKyjJIGwofJfxRdA\nSfsBE8ad/0E7ubyPi8B80DnYhjK0z3JzziGw6U92P1372ePnmrFEImvZAoGBAJL8\nq15Sd+2EZBXWmHY7fd/Byzxhz/uA1tgGIwxCoLwvG2E0l0EmPf+0Ql+rjNvzy30e\ngv+EGifg3B9z3UD8r9mD9fflHvCfHZJk5xTkqIPyJUQg6FYOmchlo17bm5AaqdaR\nwfxFhI5EYCiR193u153zrvFT8EM5xRgmmZHCBi6pAoGASJC6vlygowtZUWz6rlwh\nR1lh29nw3l3zy2VFv7C/I+/qoOxZQhhL0mU2wqw61ZWKNRbx4/kPdS4+6fOfUq8g\nKA8axUwvurW1eNZaLQYeDOAnI5trzylHRLwp+ZyrgtrqZx9RWnlR7/OBjmJ9K4WV\nKcdInzHqoDJ4eDE2nsQYX/Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-kiggpc@detoxify.iam.gserviceaccount.com",
+  "client_id": "109039649399949179432",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-kiggpc%40detoxify.iam.gserviceaccount.com"
+}

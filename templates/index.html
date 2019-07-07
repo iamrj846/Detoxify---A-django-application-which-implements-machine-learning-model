@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block content %}
+
+    {% if not user.is_authenticated %}
+      <div class="container">
+        <div class="jumbotron myjumbo">
+            <h1 class="myheading">Welcome {{user.username}}</h1>
+            <p>Please login to fill up the form..</p>
+            <a class="btn btn-primary" href="{% url 'accounts:login' %}" role="button">Log in</a>
+            <a href="{% url 'accounts:signup' %}" class="btn btn-primary" role="button">Sign in</a>
+        </div>
+      </div>
+
+      {% endif %}
+      {% if user.is_authenticated %}
+      <div class="container">
+        <div class="jumbotron myjumbo">
+            <h1 class="myheading">Welcome {{user.username}}</h1>
+            <p>Please fill up the form..</p>
+            <a href="{% url 'form_name' %}" class="btn btn-primary   signup">Click here to fill the form</a>
+        </div>
+      </div>
+
+      {% endif %}
+      {% if user.is_authenticated %}
+        <div class="container">
+          <h2 class="hospital">Check out the hospitals nearest to you..</h2>
+          <div id="map-holder" class="jumbotron">
+          </div>
+        </div>
+            
+          
+        {% endif %}
+
+
+{% endblock %}
+
+

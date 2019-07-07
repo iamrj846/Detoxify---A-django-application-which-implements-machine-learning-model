@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+    <h3 class="myresult">{{value}}</h3>
+     {% if user.is_authenticated %}
+        <div class="container">
+          <h2 class="hospital">Check out the hospitals nearest to you..</h2>
+          <div id="map-holder" class="jumbotron">
+          </div>
+        </div>
+    {% endif %}
+{% endblock %}
+
+

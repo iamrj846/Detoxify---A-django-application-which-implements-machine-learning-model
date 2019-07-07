@@ -1,0 +1,68 @@
+{% load staticfiles %}
+
+body {
+    color:black;
+    background-image:url('/static/images/background.jpg');
+    height: 100%;
+    width: 100%;
+  }
+.mynav{
+    background-color: rgba(0, 4, 5, 0.5);
+    color: white;
+  } 
+
+.myloginform{
+    width: 1200px;
+   /*  padding-bottom: 15px; */
+    background-color: rgba(191, 220, 227, 0.5);
+    border-radius: 20px;
+    margin-bottom: 20px;
+    }
+
+.mysignupform{
+    width: 1200px;
+    padding-bottom: 15px;
+    background-color: rgb(0, 4, 5);
+    border-radius: 20px;
+    color:white;
+}
+
+.login, .logout, .signup{
+  color: white;
+}
+
+.myheading{
+  color: white;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  font-size: 100px;
+}
+
+#map-holder {
+  margin-bottom: 20px;
+  height: 350px;
+  width: 100%;
+}
+
+.myjumbo{
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.hospital{
+  text-align: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 8px 0px;
+}
+
+.formheading{
+  margin-top: 10px;
+  text-align: center;
+}
+
+.myresult{
+  color: white;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  font-size: 50px;
+}
